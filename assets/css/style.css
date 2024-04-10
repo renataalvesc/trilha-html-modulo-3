@@ -27,9 +27,11 @@ a { color:blue; text-decoration: none;}
     border-top: solid 1px #cdcdcd;
     
 }
-.footer-texto{
-    margin: 40px;
+.footer-texto {
+    display: grid;
+    place-items: center;
 }
+
 .anchors {
     border-left: solid 1px #cdcdcd;
     padding-left: 15px;

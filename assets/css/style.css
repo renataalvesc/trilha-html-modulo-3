@@ -30,6 +30,7 @@ a { color:blue; text-decoration: none;}
 .footer-texto {
     display: grid;
     place-items: center;
+    margin: auto;
 }
 
 .anchors {
